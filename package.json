@@ -10,15 +10,17 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~44.0.0",
-    "expo-status-bar": "~1.2.0",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "@expo/metro-runtime": "~4.0.1",
+    "expo": "^52.0.44",
+    "expo-linear-gradient": "~14.0.2",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "0.76.9",
+    "react-native-web": "~0.19.13"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.25.2"
   },
   "private": true,
   "packageManager": "yarn@1.22.19+sha512.ff4579ab459bb25aa7c0ff75b62acebe576f6084b36aa842971cf250a5d8c6cd3bc9420b22ce63c7f93a0857bc6ef29291db39c3e7a23aab5adfd5a4dd6c5d71"
