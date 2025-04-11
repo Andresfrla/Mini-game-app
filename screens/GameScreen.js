@@ -97,6 +97,8 @@ function GameScreen({ userNumber, onGameOver }) {
   );
 }
 
+export default GameScreen;
+
 const styles = StyleSheet.create({
   screen: {
     flex: 1,
@@ -118,4 +120,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default GameScreen;
+
